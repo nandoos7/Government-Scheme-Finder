@@ -1,0 +1,7 @@
+SchemeName,MinAge,MaxAge,Gender,State,Occupation,IncomeLimit,Category,Student,Farmer,Benefits,Documents,OfficialLink
+PM Internship Scheme,18,24,Any,All,Student,800000,Any,Yes,No,Monthly stipend,Aadhaar College ID Bank Account,https://pminternship.mca.gov.in
+PM Kisan,18,100,Any,All,Farmer,10000000,Any,No,Yes,₹6000 yearly,Aadhaar Land Record Bank Passbook,https://pmkisan.gov.in
+Skill India,18,60,Any,All,Any,10000000,Any,Any,Any,Free skill training,Aadhaar Photo,https://www.skillindia.gov.in
+Ayushman Bharat,0,100,Any,All,Any,500000,Any,Any,Any,Health insurance,Aadhaar Ration Card,https://beneficiary.nha.gov.in
+National Scholarship,17,30,Any,All,Student,250000,Any,Yes,No,Scholarship support,Aadhaar Income Certificate,https://scholarships.gov.in
+Mudra Loan,18,65,Any,All,Business,10000000,Any,No,No,Business loan,Aadhaar PAN Business Proof,https://www.mudra.org.in
